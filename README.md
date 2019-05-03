@@ -1,13 +1,12 @@
 # Hello_world
-This is my first time to add a repository in GitHub.
-As an English major
-and a Chinese guy,
-it's a little bit hard to learn programming.
-In Chinese,
-there is a saying:
-The boy is chasing a butterfly,
-and at the same time,
-he wants to climb to the top of the mountain.
-Best wish for me.
-Good luck.
 
+This is my first time to add a repository in GitHub.
+
+it's a little bit hard to learn programming
+as a guy who do not major in Computer Science.
+
+But there is a saying:
+The boy is climbing  to the top of the mountain,
+while he is chasing a butterfly.
+
+Best wish for me.
